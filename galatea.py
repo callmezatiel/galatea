@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 import socket
 host = input("Insert IP ")
 ports = range  (1,1024)
